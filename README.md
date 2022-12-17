@@ -33,3 +33,7 @@ yarn dev
 ***
 ### Blog:
 
+* SQLite3 WASM JS + SvelteKit 1.0 CMS表示系 
+
+https://zenn.dev/knaka0209/articles/43d40dc788b0b9
+
